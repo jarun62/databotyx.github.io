@@ -1,4 +1,4 @@
-## Ajourney across AI,BI,CI,DI,EI, for FIntech, Mfg, Retail, HiTech & Telco
+## A journey across AI,BI,CI,DI,EI, for FIntech, Mfg, Retail, HiTech & Telco
 
 You can use the [editor on GitHub](https://github.com/jarun62/databotyx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
